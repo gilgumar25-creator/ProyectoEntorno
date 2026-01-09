@@ -7,6 +7,8 @@ public class Principal {
 		
 		System.out.println("Bienvenido a nuestro programa");
 		
+		System.out.println("Info del Programa: Colaboradores Daniel Pisones y Mario Gil. Este programa todavía está en desarrollo");
+		
 		System.out.println("Hasta la próxima");
 	}
 
